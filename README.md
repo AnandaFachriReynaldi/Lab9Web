@@ -13,7 +13,7 @@ Membuat Folder `lab9_php_modular` pada root directory web server (d:\xampp\htdoc
 
 Setelah itu uji coba gunakan URL :
 ```
-http://localhost/phpmyadmin/
+http://localhost/lab9_php_modular/
 ```
 ![Step3](SS/SS3.png)<br>
 
